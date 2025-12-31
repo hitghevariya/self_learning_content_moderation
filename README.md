@@ -46,6 +46,7 @@ When OOD is detected:
 Input is stored in MongoDB
 
 Used later to trigger autonomous retraining
+
 --------------------Autonomous Data Discovery (No Manual Selection)------------------
 
 OOD tokens are extracted automatically
