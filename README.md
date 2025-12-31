@@ -65,6 +65,27 @@ Model retrains only if performance improves
 
 This removes all hardcoded dataset assumptions.
 
+🎯 Why This Project Matters
+
+Most moderation systems fail because they:
+
+Use static datasets
+
+Require manual retraining
+
+Cannot adapt to evolving language
+
+This project demonstrates:
+
+Autonomous learning
+
+Safe continual retraining
+
+Production-grade data ingestion
+
+Real-world ML system design
+
+
 📌 Ideal Use Cases
 
 Social media moderation
